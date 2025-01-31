@@ -1,0 +1,427 @@
+Time: 1
+Clients: (id6, at3, st8) (id4, at4, st2) (id5, at5, st6) (id2, at6, st4) (id0, at7, st1) (id1, at7, st1) (id8, at7, st5) (id3, at8, st3) (id7, at8, st4) (id9, at9, st7) 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+
+Time: 2
+Clients: (id6, at3, st8) (id4, at4, st2) (id5, at5, st6) (id2, at6, st4) (id0, at7, st1) (id1, at7, st1) (id8, at7, st5) (id3, at8, st3) (id7, at8, st4) (id9, at9, st7) 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+
+Time: 3
+Clients: (id4, at4, st2) (id5, at5, st6) (id2, at6, st4) (id0, at7, st1) (id1, at7, st1) (id8, at7, st5) (id3, at8, st3) (id7, at8, st4) (id9, at9, st7) 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: (id6, at3, st8) 
+
+Time: 4
+Clients: (id5, at5, st6) (id2, at6, st4) (id0, at7, st1) (id1, at7, st1) (id8, at7, st5) (id3, at8, st3) (id7, at8, st4) (id9, at9, st7) 
+Queue 1: 
+Queue 2: 
+Queue 3: (id4, at4, st2) 
+Queue 4: (id6, at3, st8) 
+
+Time: 5
+Clients: (id2, at6, st4) (id0, at7, st1) (id1, at7, st1) (id8, at7, st5) (id3, at8, st3) (id7, at8, st4) (id9, at9, st7) 
+Queue 1: 
+Queue 2: (id5, at5, st6) 
+Queue 3: (id4, at4, st2) 
+Queue 4: (id6, at3, st8) 
+
+Time: 6
+Clients: (id0, at7, st1) (id1, at7, st1) (id8, at7, st5) (id3, at8, st3) (id7, at8, st4) (id9, at9, st7) 
+Queue 1: (id2, at6, st4) 
+Queue 2: (id5, at5, st6) 
+Queue 3: 
+Queue 4: (id6, at3, st8) 
+
+Time: 7
+Clients: (id3, at8, st3) (id7, at8, st4) (id9, at9, st7) 
+Queue 1: (id5, at5, st6) 
+Queue 2: (id6, at3, st8) 
+Queue 3: (id1, at7, st1) (id8, at7, st5) 
+Queue 4: (id2, at6, st4) (id0, at7, st1) 
+
+Time: 8
+Clients: (id9, at9, st7) 
+Queue 1: (id6, at3, st8) (id7, at8, st4) 
+Queue 2: (id5, at5, st6) (id3, at8, st3) 
+Queue 3: (id8, at7, st5) 
+Queue 4: (id2, at6, st4) (id0, at7, st1) 
+
+Time: 9
+Clients: 
+Queue 1: (id8, at7, st5) 
+Queue 2: (id5, at5, st6) (id3, at8, st3) 
+Queue 3: (id2, at6, st4) (id0, at7, st1) 
+Queue 4: (id6, at3, st8) (id7, at8, st4) (id9, at9, st7) 
+
+Time: 10
+Clients: 
+Queue 1: (id8, at7, st5) 
+Queue 2: (id5, at5, st6) (id3, at8, st3) 
+Queue 3: (id0, at7, st1) 
+Queue 4: (id6, at3, st8) (id7, at8, st4) (id9, at9, st7) 
+
+Time: 11
+Clients: 
+Queue 1: (id8, at7, st5) 
+Queue 2: (id3, at8, st3) 
+Queue 3: 
+Queue 4: (id7, at8, st4) (id9, at9, st7) 
+
+Time: 12
+Clients: 
+Queue 1: (id8, at7, st5) 
+Queue 2: (id3, at8, st3) 
+Queue 3: 
+Queue 4: (id7, at8, st4) (id9, at9, st7) 
+
+Time: 13
+Clients: 
+Queue 1: 
+Queue 2: (id3, at8, st3) 
+Queue 3: 
+Queue 4: (id7, at8, st4) (id9, at9, st7) 
+
+Time: 14
+Clients: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: (id7, at8, st4) (id9, at9, st7) 
+
+Time: 15
+Clients: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: (id9, at9, st7) 
+
+Time: 16
+Clients: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: (id9, at9, st7) 
+
+Time: 17
+Clients: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: (id9, at9, st7) 
+
+Time: 18
+Clients: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: (id9, at9, st7) 
+
+Time: 19
+Clients: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: (id9, at9, st7) 
+
+Time: 20
+Clients: 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: (id9, at9, st7) 
+
+Average waiting time: 2.25
+Average service time: 4.1
+Peak hour: 9Time: 1
+Clients: (id15, at2, st1) (id25, at2, st6) (id27, at2, st8) (id11, at3, st6) (id22, at3, st9) (id26, at3, st8) (id2, at4, st1) (id7, at4, st4) (id10, at4, st4) (id14, at4, st6) (id17, at4, st9) (id19, at4, st2) (id21, at4, st4) (id6, at5, st6) (id9, at5, st9) (id12, at5, st7) (id16, at6, st5) (id4, at7, st3) (id13, at7, st2) (id20, at7, st8) (id24, at7, st2) (id1, at8, st2) (id3, at8, st5) (id5, at8, st2) (id8, at8, st6) (id18, at8, st6) (id23, at8, st2) (id28, at8, st3) (id0, at9, st2) (id29, at9, st8) 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+
+Time: 2
+Clients: (id11, at3, st6) (id22, at3, st9) (id26, at3, st8) (id2, at4, st1) (id7, at4, st4) (id10, at4, st4) (id14, at4, st6) (id17, at4, st9) (id19, at4, st2) (id21, at4, st4) (id6, at5, st6) (id9, at5, st9) (id12, at5, st7) (id16, at6, st5) (id4, at7, st3) (id13, at7, st2) (id20, at7, st8) (id24, at7, st2) (id1, at8, st2) (id3, at8, st5) (id5, at8, st2) (id8, at8, st6) (id18, at8, st6) (id23, at8, st2) (id28, at8, st3) (id0, at9, st2) (id29, at9, st8) 
+Queue 1: 
+Queue 2: (id27, at2, st8) 
+Queue 3: (id25, at2, st6) 
+Queue 4: (id15, at2, st1) 
+
+Time: 3
+Clients: (id2, at4, st1) (id7, at4, st4) (id10, at4, st4) (id14, at4, st6) (id17, at4, st9) (id19, at4, st2) (id21, at4, st4) (id6, at5, st6) (id9, at5, st9) (id12, at5, st7) (id16, at6, st5) (id4, at7, st3) (id13, at7, st2) (id20, at7, st8) (id24, at7, st2) (id1, at8, st2) (id3, at8, st5) (id5, at8, st2) (id8, at8, st6) (id18, at8, st6) (id23, at8, st2) (id28, at8, st3) (id0, at9, st2) (id29, at9, st8) 
+Queue 1: (id11, at3, st6) 
+Queue 2: (id27, at2, st8) 
+Queue 3: (id25, at2, st6) 
+Queue 4: (id22, at3, st9) (id26, at3, st8) 
+
+Time: 4
+Clients: (id6, at5, st6) (id9, at5, st9) (id12, at5, st7) (id16, at6, st5) (id4, at7, st3) (id13, at7, st2) (id20, at7, st8) (id24, at7, st2) (id1, at8, st2) (id3, at8, st5) (id5, at8, st2) (id8, at8, st6) (id18, at8, st6) (id23, at8, st2) (id28, at8, st3) (id0, at9, st2) (id29, at9, st8) 
+Queue 1: (id22, at3, st9) (id26, at3, st8) (id21, at4, st4) 
+Queue 2: (id11, at3, st6) (id2, at4, st1) (id19, at4, st2) 
+Queue 3: (id27, at2, st8) (id7, at4, st4) (id17, at4, st9) 
+Queue 4: (id25, at2, st6) (id10, at4, st4) (id14, at4, st6) 
+
+Time: 5
+Clients: (id16, at6, st5) (id4, at7, st3) (id13, at7, st2) (id20, at7, st8) (id24, at7, st2) (id1, at8, st2) (id3, at8, st5) (id5, at8, st2) (id8, at8, st6) (id18, at8, st6) (id23, at8, st2) (id28, at8, st3) (id0, at9, st2) (id29, at9, st8) 
+Queue 1: (id25, at2, st6) (id10, at4, st4) (id14, at4, st6) 
+Queue 2: (id27, at2, st8) (id7, at4, st4) (id17, at4, st9) (id12, at5, st7) 
+Queue 3: (id11, at3, st6) (id2, at4, st1) (id19, at4, st2) (id9, at5, st9) 
+Queue 4: (id22, at3, st9) (id26, at3, st8) (id21, at4, st4) (id6, at5, st6) 
+
+Time: 6
+Clients: (id4, at7, st3) (id13, at7, st2) (id20, at7, st8) (id24, at7, st2) (id1, at8, st2) (id3, at8, st5) (id5, at8, st2) (id8, at8, st6) (id18, at8, st6) (id23, at8, st2) (id28, at8, st3) (id0, at9, st2) (id29, at9, st8) 
+Queue 1: (id25, at2, st6) (id10, at4, st4) (id14, at4, st6) (id16, at6, st5) 
+Queue 2: (id27, at2, st8) (id7, at4, st4) (id17, at4, st9) (id12, at5, st7) 
+Queue 3: (id11, at3, st6) (id2, at4, st1) (id19, at4, st2) (id9, at5, st9) 
+Queue 4: (id22, at3, st9) (id26, at3, st8) (id21, at4, st4) (id6, at5, st6) 
+
+Time: 7
+Clients: (id1, at8, st2) (id3, at8, st5) (id5, at8, st2) (id8, at8, st6) (id18, at8, st6) (id23, at8, st2) (id28, at8, st3) (id0, at9, st2) (id29, at9, st8) 
+Queue 1: (id22, at3, st9) (id26, at3, st8) (id21, at4, st4) (id6, at5, st6) (id24, at7, st2) 
+Queue 2: (id11, at3, st6) (id2, at4, st1) (id19, at4, st2) (id9, at5, st9) (id20, at7, st8) 
+Queue 3: (id27, at2, st8) (id7, at4, st4) (id17, at4, st9) (id12, at5, st7) (id13, at7, st2) 
+Queue 4: (id25, at2, st6) (id10, at4, st4) (id14, at4, st6) (id16, at6, st5) (id4, at7, st3) 
+
+Time: 8
+Clients: (id0, at9, st2) (id29, at9, st8) 
+Queue 1: (id10, at4, st4) (id14, at4, st6) (id16, at6, st5) (id4, at7, st3) (id3, at8, st5) (id5, at8, st2) 
+Queue 2: (id22, at3, st9) (id26, at3, st8) (id21, at4, st4) (id6, at5, st6) (id24, at7, st2) (id1, at8, st2) 
+Queue 3: (id11, at3, st6) (id2, at4, st1) (id19, at4, st2) (id9, at5, st9) (id20, at7, st8) (id8, at8, st6) (id28, at8, st3) 
+Queue 4: (id27, at2, st8) (id7, at4, st4) (id17, at4, st9) (id12, at5, st7) (id13, at7, st2) (id18, at8, st6) (id23, at8, st2) 
+
+Time: 9
+Clients: 
+Queue 1: (id2, at4, st1) (id19, at4, st2) (id9, at5, st9) (id20, at7, st8) (id8, at8, st6) (id28, at8, st3) 
+Queue 2: (id22, at3, st9) (id26, at3, st8) (id21, at4, st4) (id6, at5, st6) (id24, at7, st2) (id1, at8, st2) (id29, at9, st8) 
+Queue 3: (id10, at4, st4) (id14, at4, st6) (id16, at6, st5) (id4, at7, st3) (id3, at8, st5) (id5, at8, st2) (id0, at9, st2) 
+Queue 4: (id27, at2, st8) (id7, at4, st4) (id17, at4, st9) (id12, at5, st7) (id13, at7, st2) (id18, at8, st6) (id23, at8, st2) 
+
+Time: 10
+Clients: 
+Queue 1: (id19, at4, st2) (id9, at5, st9) (id20, at7, st8) (id8, at8, st6) (id28, at8, st3) 
+Queue 2: (id22, at3, st9) (id26, at3, st8) (id21, at4, st4) (id6, at5, st6) (id24, at7, st2) (id1, at8, st2) (id29, at9, st8) 
+Queue 3: (id10, at4, st4) (id14, at4, st6) (id16, at6, st5) (id4, at7, st3) (id3, at8, st5) (id5, at8, st2) (id0, at9, st2) 
+Queue 4: (id7, at4, st4) (id17, at4, st9) (id12, at5, st7) (id13, at7, st2) (id18, at8, st6) (id23, at8, st2) 
+
+Time: 11
+Clients: 
+Queue 1: (id19, at4, st2) (id9, at5, st9) (id20, at7, st8) (id8, at8, st6) (id28, at8, st3) 
+Queue 2: (id22, at3, st9) (id26, at3, st8) (id21, at4, st4) (id6, at5, st6) (id24, at7, st2) (id1, at8, st2) (id29, at9, st8) 
+Queue 3: (id10, at4, st4) (id14, at4, st6) (id16, at6, st5) (id4, at7, st3) (id3, at8, st5) (id5, at8, st2) (id0, at9, st2) 
+Queue 4: (id7, at4, st4) (id17, at4, st9) (id12, at5, st7) (id13, at7, st2) (id18, at8, st6) (id23, at8, st2) 
+
+Time: 12
+Clients: 
+Queue 1: (id9, at5, st9) (id20, at7, st8) (id8, at8, st6) (id28, at8, st3) 
+Queue 2: (id26, at3, st8) (id21, at4, st4) (id6, at5, st6) (id24, at7, st2) (id1, at8, st2) (id29, at9, st8) 
+Queue 3: (id14, at4, st6) (id16, at6, st5) (id4, at7, st3) (id3, at8, st5) (id5, at8, st2) (id0, at9, st2) 
+Queue 4: (id7, at4, st4) (id17, at4, st9) (id12, at5, st7) (id13, at7, st2) (id18, at8, st6) (id23, at8, st2) 
+
+Time: 13
+Clients: 
+Queue 1: (id9, at5, st9) (id20, at7, st8) (id8, at8, st6) (id28, at8, st3) 
+Queue 2: (id26, at3, st8) (id21, at4, st4) (id6, at5, st6) (id24, at7, st2) (id1, at8, st2) (id29, at9, st8) 
+Queue 3: (id14, at4, st6) (id16, at6, st5) (id4, at7, st3) (id3, at8, st5) (id5, at8, st2) (id0, at9, st2) 
+Queue 4: (id7, at4, st4) (id17, at4, st9) (id12, at5, st7) (id13, at7, st2) (id18, at8, st6) (id23, at8, st2) 
+
+Time: 14
+Clients: 
+Queue 1: (id9, at5, st9) (id20, at7, st8) (id8, at8, st6) (id28, at8, st3) 
+Queue 2: (id26, at3, st8) (id21, at4, st4) (id6, at5, st6) (id24, at7, st2) (id1, at8, st2) (id29, at9, st8) 
+Queue 3: (id14, at4, st6) (id16, at6, st5) (id4, at7, st3) (id3, at8, st5) (id5, at8, st2) (id0, at9, st2) 
+Queue 4: (id17, at4, st9) (id12, at5, st7) (id13, at7, st2) (id18, at8, st6) (id23, at8, st2) 
+
+Time: 15
+Clients: 
+Queue 1: (id9, at5, st9) (id20, at7, st8) (id8, at8, st6) (id28, at8, st3) 
+Queue 2: (id26, at3, st8) (id21, at4, st4) (id6, at5, st6) (id24, at7, st2) (id1, at8, st2) (id29, at9, st8) 
+Queue 3: (id14, at4, st6) (id16, at6, st5) (id4, at7, st3) (id3, at8, st5) (id5, at8, st2) (id0, at9, st2) 
+Queue 4: (id17, at4, st9) (id12, at5, st7) (id13, at7, st2) (id18, at8, st6) (id23, at8, st2) 
+
+Time: 16
+Clients: 
+Queue 1: (id9, at5, st9) (id20, at7, st8) (id8, at8, st6) (id28, at8, st3) 
+Queue 2: (id26, at3, st8) (id21, at4, st4) (id6, at5, st6) (id24, at7, st2) (id1, at8, st2) (id29, at9, st8) 
+Queue 3: (id14, at4, st6) (id16, at6, st5) (id4, at7, st3) (id3, at8, st5) (id5, at8, st2) (id0, at9, st2) 
+Queue 4: (id17, at4, st9) (id12, at5, st7) (id13, at7, st2) (id18, at8, st6) (id23, at8, st2) 
+
+Time: 17
+Clients: 
+Queue 1: (id9, at5, st9) (id20, at7, st8) (id8, at8, st6) (id28, at8, st3) 
+Queue 2: (id26, at3, st8) (id21, at4, st4) (id6, at5, st6) (id24, at7, st2) (id1, at8, st2) (id29, at9, st8) 
+Queue 3: (id14, at4, st6) (id16, at6, st5) (id4, at7, st3) (id3, at8, st5) (id5, at8, st2) (id0, at9, st2) 
+Queue 4: (id17, at4, st9) (id12, at5, st7) (id13, at7, st2) (id18, at8, st6) (id23, at8, st2) 
+
+Time: 18
+Clients: 
+Queue 1: (id9, at5, st9) (id20, at7, st8) (id8, at8, st6) (id28, at8, st3) 
+Queue 2: (id26, at3, st8) (id21, at4, st4) (id6, at5, st6) (id24, at7, st2) (id1, at8, st2) (id29, at9, st8) 
+Queue 3: (id16, at6, st5) (id4, at7, st3) (id3, at8, st5) (id5, at8, st2) (id0, at9, st2) 
+Queue 4: (id17, at4, st9) (id12, at5, st7) (id13, at7, st2) (id18, at8, st6) (id23, at8, st2) 
+
+Time: 19
+Clients: 
+Queue 1: (id9, at5, st9) (id20, at7, st8) (id8, at8, st6) (id28, at8, st3) 
+Queue 2: (id26, at3, st8) (id21, at4, st4) (id6, at5, st6) (id24, at7, st2) (id1, at8, st2) (id29, at9, st8) 
+Queue 3: (id16, at6, st5) (id4, at7, st3) (id3, at8, st5) (id5, at8, st2) (id0, at9, st2) 
+Queue 4: (id17, at4, st9) (id12, at5, st7) (id13, at7, st2) (id18, at8, st6) (id23, at8, st2) 
+
+Time: 1
+Clients: (id8, at2, st6) (id10, at2, st8) (id24, at2, st6) (id0, at3, st2) (id5, at3, st9) (id6, at3, st4) (id18, at3, st2) (id19, at3, st7) (id21, at3, st7) (id16, at4, st1) (id28, at4, st8) (id3, at6, st2) (id7, at6, st9) (id12, at6, st8) (id22, at6, st6) (id2, at7, st7) (id15, at7, st9) (id17, at7, st5) (id20, at7, st4) (id27, at7, st6) (id29, at7, st7) (id1, at8, st2) (id23, at8, st3) (id4, at9, st9) (id9, at9, st6) (id11, at9, st8) (id13, at9, st2) (id14, at9, st1) (id25, at9, st1) (id26, at9, st9) 
+Queue 1: 
+Queue 2: 
+Queue 3: 
+Queue 4: 
+
+Time: 20
+Clients: 
+Queue 1: (id9, at5, st9) (id20, at7, st8) (id8, at8, st6) (id28, at8, st3) 
+Queue 2: (id21, at4, st4) (id6, at5, st6) (id24, at7, st2) (id1, at8, st2) (id29, at9, st8) 
+Queue 3: (id16, at6, st5) (id4, at7, st3) (id3, at8, st5) (id5, at8, st2) (id0, at9, st2) 
+Queue 4: (id17, at4, st9) (id12, at5, st7) (id13, at7, st2) (id18, at8, st6) (id23, at8, st2) 
+
+Time: 2
+Clients: (id0, at3, st2) (id5, at3, st9) (id6, at3, st4) (id18, at3, st2) (id19, at3, st7) (id21, at3, st7) (id16, at4, st1) (id28, at4, st8) (id3, at6, st2) (id7, at6, st9) (id12, at6, st8) (id22, at6, st6) (id2, at7, st7) (id15, at7, st9) (id17, at7, st5) (id20, at7, st4) (id27, at7, st6) (id29, at7, st7) (id1, at8, st2) (id23, at8, st3) (id4, at9, st9) (id9, at9, st6) (id11, at9, st8) (id13, at9, st2) (id14, at9, st1) (id25, at9, st1) (id26, at9, st9) 
+Queue 1: 
+Queue 2: (id24, at2, st6) 
+Queue 3: (id8, at2, st6) 
+Queue 4: (id10, at2, st8) 
+
+Average waiting time: 19.85
+Average service time: 4.866666666666666
+Peak hour: 9Time: 3
+Clients: (id16, at4, st1) (id28, at4, st8) (id3, at6, st2) (id7, at6, st9) (id12, at6, st8) (id22, at6, st6) (id2, at7, st7) (id15, at7, st9) (id17, at7, st5) (id20, at7, st4) (id27, at7, st6) (id29, at7, st7) (id1, at8, st2) (id23, at8, st3) (id4, at9, st9) (id9, at9, st6) (id11, at9, st8) (id13, at9, st2) (id14, at9, st1) (id25, at9, st1) (id26, at9, st9) 
+Queue 1: (id8, at2, st6) (id6, at3, st4) 
+Queue 2: (id0, at3, st2) (id5, at3, st9) 
+Queue 3: (id10, at2, st8) (id21, at3, st7) 
+Queue 4: (id24, at2, st6) (id18, at3, st2) (id19, at3, st7) 
+
+Time: 4
+Clients: (id3, at6, st2) (id7, at6, st9) (id12, at6, st8) (id22, at6, st6) (id2, at7, st7) (id15, at7, st9) (id17, at7, st5) (id20, at7, st4) (id27, at7, st6) (id29, at7, st7) (id1, at8, st2) (id23, at8, st3) (id4, at9, st9) (id9, at9, st6) (id11, at9, st8) (id13, at9, st2) (id14, at9, st1) (id25, at9, st1) (id26, at9, st9) 
+Queue 1: (id0, at3, st2) (id5, at3, st9) 
+Queue 2: (id10, at2, st8) (id21, at3, st7) 
+Queue 3: (id24, at2, st6) (id18, at3, st2) (id19, at3, st7) 
+Queue 4: (id8, at2, st6) (id6, at3, st4) (id16, at4, st1) (id28, at4, st8) 
+
+Time: 5
+Clients: (id3, at6, st2) (id7, at6, st9) (id12, at6, st8) (id22, at6, st6) (id2, at7, st7) (id15, at7, st9) (id17, at7, st5) (id20, at7, st4) (id27, at7, st6) (id29, at7, st7) (id1, at8, st2) (id23, at8, st3) (id4, at9, st9) (id9, at9, st6) (id11, at9, st8) (id13, at9, st2) (id14, at9, st1) (id25, at9, st1) (id26, at9, st9) 
+Queue 1: (id5, at3, st9) 
+Queue 2: (id10, at2, st8) (id21, at3, st7) 
+Queue 3: (id24, at2, st6) (id18, at3, st2) (id19, at3, st7) 
+Queue 4: (id8, at2, st6) (id6, at3, st4) (id16, at4, st1) (id28, at4, st8) 
+
+Time: 6
+Clients: (id2, at7, st7) (id15, at7, st9) (id17, at7, st5) (id20, at7, st4) (id27, at7, st6) (id29, at7, st7) (id1, at8, st2) (id23, at8, st3) (id4, at9, st9) (id9, at9, st6) (id11, at9, st8) (id13, at9, st2) (id14, at9, st1) (id25, at9, st1) (id26, at9, st9) 
+Queue 1: (id8, at2, st6) (id6, at3, st4) (id16, at4, st1) (id28, at4, st8) 
+Queue 2: (id10, at2, st8) (id21, at3, st7) (id22, at6, st6) 
+Queue 3: (id24, at2, st6) (id18, at3, st2) (id19, at3, st7) (id12, at6, st8) 
+Queue 4: (id5, at3, st9) (id3, at6, st2) (id7, at6, st9) 
+
+Time: 7
+Clients: (id1, at8, st2) (id23, at8, st3) (id4, at9, st9) (id9, at9, st6) (id11, at9, st8) (id13, at9, st2) (id14, at9, st1) (id25, at9, st1) (id26, at9, st9) 
+Queue 1: (id24, at2, st6) (id18, at3, st2) (id19, at3, st7) (id12, at6, st8) (id17, at7, st5) 
+Queue 2: (id10, at2, st8) (id21, at3, st7) (id22, at6, st6) (id15, at7, st9) 
+Queue 3: (id8, at2, st6) (id6, at3, st4) (id16, at4, st1) (id28, at4, st8) (id2, at7, st7) (id27, at7, st6) 
+Queue 4: (id5, at3, st9) (id3, at6, st2) (id7, at6, st9) (id20, at7, st4) (id29, at7, st7) 
+
+Time: 8
+Clients: (id4, at9, st9) (id9, at9, st6) (id11, at9, st8) (id13, at9, st2) (id14, at9, st1) (id25, at9, st1) (id26, at9, st9) 
+Queue 1: (id10, at2, st8) (id21, at3, st7) (id22, at6, st6) (id15, at7, st9) 
+Queue 2: (id6, at3, st4) (id16, at4, st1) (id28, at4, st8) (id2, at7, st7) (id27, at7, st6) 
+Queue 3: (id18, at3, st2) (id19, at3, st7) (id12, at6, st8) (id17, at7, st5) (id1, at8, st2) (id23, at8, st3) 
+Queue 4: (id5, at3, st9) (id3, at6, st2) (id7, at6, st9) (id20, at7, st4) (id29, at7, st7) 
+
+Time: 9
+Clients: 
+Queue 1: (id6, at3, st4) (id16, at4, st1) (id28, at4, st8) (id2, at7, st7) (id27, at7, st6) (id9, at9, st6) 
+Queue 2: (id10, at2, st8) (id21, at3, st7) (id22, at6, st6) (id15, at7, st9) (id4, at9, st9) 
+Queue 3: (id18, at3, st2) (id19, at3, st7) (id12, at6, st8) (id17, at7, st5) (id1, at8, st2) (id23, at8, st3) (id11, at9, st8) 
+Queue 4: (id5, at3, st9) (id3, at6, st2) (id7, at6, st9) (id20, at7, st4) (id29, at7, st7) (id13, at9, st2) (id14, at9, st1) (id25, at9, st1) (id26, at9, st9) 
+
+Time: 10
+Clients: 
+Queue 1: (id6, at3, st4) (id16, at4, st1) (id28, at4, st8) (id2, at7, st7) (id27, at7, st6) (id9, at9, st6) 
+Queue 2: (id10, at2, st8) (id21, at3, st7) (id22, at6, st6) (id15, at7, st9) (id4, at9, st9) 
+Queue 3: (id19, at3, st7) (id12, at6, st8) (id17, at7, st5) (id1, at8, st2) (id23, at8, st3) (id11, at9, st8) 
+Queue 4: (id5, at3, st9) (id3, at6, st2) (id7, at6, st9) (id20, at7, st4) (id29, at7, st7) (id13, at9, st2) (id14, at9, st1) (id25, at9, st1) (id26, at9, st9) 
+
+Time: 11
+Clients: 
+Queue 1: (id6, at3, st4) (id16, at4, st1) (id28, at4, st8) (id2, at7, st7) (id27, at7, st6) (id9, at9, st6) 
+Queue 2: (id21, at3, st7) (id22, at6, st6) (id15, at7, st9) (id4, at9, st9) 
+Queue 3: (id19, at3, st7) (id12, at6, st8) (id17, at7, st5) (id1, at8, st2) (id23, at8, st3) (id11, at9, st8) 
+Queue 4: (id5, at3, st9) (id3, at6, st2) (id7, at6, st9) (id20, at7, st4) (id29, at7, st7) (id13, at9, st2) (id14, at9, st1) (id25, at9, st1) (id26, at9, st9) 
+
+Time: 12
+Clients: 
+Queue 1: (id16, at4, st1) (id28, at4, st8) (id2, at7, st7) (id27, at7, st6) (id9, at9, st6) 
+Queue 2: (id21, at3, st7) (id22, at6, st6) (id15, at7, st9) (id4, at9, st9) 
+Queue 3: (id19, at3, st7) (id12, at6, st8) (id17, at7, st5) (id1, at8, st2) (id23, at8, st3) (id11, at9, st8) 
+Queue 4: (id5, at3, st9) (id3, at6, st2) (id7, at6, st9) (id20, at7, st4) (id29, at7, st7) (id13, at9, st2) (id14, at9, st1) (id25, at9, st1) (id26, at9, st9) 
+
+Time: 13
+Clients: 
+Queue 1: (id28, at4, st8) (id2, at7, st7) (id27, at7, st6) (id9, at9, st6) 
+Queue 2: (id21, at3, st7) (id22, at6, st6) (id15, at7, st9) (id4, at9, st9) 
+Queue 3: (id19, at3, st7) (id12, at6, st8) (id17, at7, st5) (id1, at8, st2) (id23, at8, st3) (id11, at9, st8) 
+Queue 4: (id5, at3, st9) (id3, at6, st2) (id7, at6, st9) (id20, at7, st4) (id29, at7, st7) (id13, at9, st2) (id14, at9, st1) (id25, at9, st1) (id26, at9, st9) 
+
+Time: 14
+Clients: 
+Queue 1: (id28, at4, st8) (id2, at7, st7) (id27, at7, st6) (id9, at9, st6) 
+Queue 2: (id21, at3, st7) (id22, at6, st6) (id15, at7, st9) (id4, at9, st9) 
+Queue 3: (id19, at3, st7) (id12, at6, st8) (id17, at7, st5) (id1, at8, st2) (id23, at8, st3) (id11, at9, st8) 
+Queue 4: (id3, at6, st2) (id7, at6, st9) (id20, at7, st4) (id29, at7, st7) (id13, at9, st2) (id14, at9, st1) (id25, at9, st1) (id26, at9, st9) 
+
+Time: 15
+Clients: 
+Queue 1: (id28, at4, st8) (id2, at7, st7) (id27, at7, st6) (id9, at9, st6) 
+Queue 2: (id21, at3, st7) (id22, at6, st6) (id15, at7, st9) (id4, at9, st9) 
+Queue 3: (id19, at3, st7) (id12, at6, st8) (id17, at7, st5) (id1, at8, st2) (id23, at8, st3) (id11, at9, st8) 
+Queue 4: (id3, at6, st2) (id7, at6, st9) (id20, at7, st4) (id29, at7, st7) (id13, at9, st2) (id14, at9, st1) (id25, at9, st1) (id26, at9, st9) 
+
+Time: 16
+Clients: 
+Queue 1: (id28, at4, st8) (id2, at7, st7) (id27, at7, st6) (id9, at9, st6) 
+Queue 2: (id21, at3, st7) (id22, at6, st6) (id15, at7, st9) (id4, at9, st9) 
+Queue 3: (id19, at3, st7) (id12, at6, st8) (id17, at7, st5) (id1, at8, st2) (id23, at8, st3) (id11, at9, st8) 
+Queue 4: (id7, at6, st9) (id20, at7, st4) (id29, at7, st7) (id13, at9, st2) (id14, at9, st1) (id25, at9, st1) (id26, at9, st9) 
+
+Time: 17
+Clients: 
+Queue 1: (id28, at4, st8) (id2, at7, st7) (id27, at7, st6) (id9, at9, st6) 
+Queue 2: (id21, at3, st7) (id22, at6, st6) (id15, at7, st9) (id4, at9, st9) 
+Queue 3: (id12, at6, st8) (id17, at7, st5) (id1, at8, st2) (id23, at8, st3) (id11, at9, st8) 
+Queue 4: (id7, at6, st9) (id20, at7, st4) (id29, at7, st7) (id13, at9, st2) (id14, at9, st1) (id25, at9, st1) (id26, at9, st9) 
+
+Time: 18
+Clients: 
+Queue 1: (id28, at4, st8) (id2, at7, st7) (id27, at7, st6) (id9, at9, st6) 
+Queue 2: (id22, at6, st6) (id15, at7, st9) (id4, at9, st9) 
+Queue 3: (id12, at6, st8) (id17, at7, st5) (id1, at8, st2) (id23, at8, st3) (id11, at9, st8) 
+Queue 4: (id7, at6, st9) (id20, at7, st4) (id29, at7, st7) (id13, at9, st2) (id14, at9, st1) (id25, at9, st1) (id26, at9, st9) 
+
+Time: 19
+Clients: 
+Queue 1: (id28, at4, st8) (id2, at7, st7) (id27, at7, st6) (id9, at9, st6) 
+Queue 2: (id22, at6, st6) (id15, at7, st9) (id4, at9, st9) 
+Queue 3: (id12, at6, st8) (id17, at7, st5) (id1, at8, st2) (id23, at8, st3) (id11, at9, st8) 
+Queue 4: (id7, at6, st9) (id20, at7, st4) (id29, at7, st7) (id13, at9, st2) (id14, at9, st1) (id25, at9, st1) (id26, at9, st9) 
+
+Time: 20
+Clients: 
+Queue 1: (id28, at4, st8) (id2, at7, st7) (id27, at7, st6) (id9, at9, st6) 
+Queue 2: (id22, at6, st6) (id15, at7, st9) (id4, at9, st9) 
+Queue 3: (id12, at6, st8) (id17, at7, st5) (id1, at8, st2) (id23, at8, st3) (id11, at9, st8) 
+Queue 4: (id7, at6, st9) (id20, at7, st4) (id29, at7, st7) (id13, at9, st2) (id14, at9, st1) (id25, at9, st1) (id26, at9, st9) 
+
+Average waiting time: 22.65
+Average service time: 5.466666666666667
+Peak hour: 9
